@@ -1,3 +1,12 @@
+# app specific
+galactic_svc/instance
+galactic_svc/venv
+
+.idea
+.DS_Store
+
+# git generated
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
