@@ -1,6 +1,7 @@
 # app specific
-galactic_svc/instance
-galactic_svc/venv
+venv
+
+*.sqlite
 
 .idea
 .DS_Store
